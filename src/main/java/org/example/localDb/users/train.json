@@ -1,0 +1,21 @@
+[ {
+  "trainId" : "01232",
+  "trainNumber" : "56379",
+  "trainSeats" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 1 ], [ 0, 0, 0, 1, 0 ] ],
+  "stationTime" : {
+    "Bangalore" : "18:30:00",
+    "Mumbai" : "21:00:00",
+    "Delhi" : "23:30:00"
+  },
+  "trainStops" : null
+}, {
+  "trainId" : "06793",
+  "trainNumber" : "53863",
+  "trainSeats" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ],
+  "stationTime" : {
+    "Bangalore" : "18:30:00",
+    "Jaipur" : "21:00:00",
+    "Delhi" : "23:30:00"
+  },
+  "trainStops" : null
+} ]
